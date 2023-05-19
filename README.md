@@ -7,7 +7,7 @@ Kather, J. N., 2019. Histological images for MSI vs. MSS classification in gastr
 The original dataset comprises a total of 192,312 histological images. This project used reduced dataset consisting of 88,335 samples (60,000 samples for training, 28,335 for test).
 
 Environment used to run the code:
-Software:
+Software:\n
 -Kaggle Notebook
 -Python 3.7
 -Tensorflow 2.3.0
